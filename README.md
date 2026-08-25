@@ -1,4 +1,4 @@
-# Hi 👋, I'm **ANKANBS**
+# Hi 👋, I'm **BISWAS ANKAN**
 
 <h3 align="center">🚀 Data Science Enthusiast | Machine Learning Explorer | Python Developer | AI Builder</h3>
 
@@ -22,8 +22,8 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ankan-biswas/" target="_blank">
+<p align="center">
+<a href="https://www.linkedin.com/in/ankan-biswas21/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 </p>
