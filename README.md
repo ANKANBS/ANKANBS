@@ -44,36 +44,25 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ANKANBS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKANBS&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ANKANBS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKANBS&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANKANBS&theme=tokyonight&hide_border=true"/>
-</p>
+--- 
+
+## 🔥 GitHub Streak 
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=ANKANBS&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ANKANBS&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ANKANBS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" /> </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANKANBS&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 💡 Quote
-
-> *"The best way to predict the future is to create it."* — Alan Kay
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANKANBS&theme=tokyo-night&hide_border=true" /> </p>
 
 ---
 
