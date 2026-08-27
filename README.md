@@ -127,13 +127,6 @@ Data Science Student • Machine Learning Enthusiast • AI Developer • Python
 
 # 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **JARVIS AI Assistant** | Voice-controlled AI assistant with GUI, face recognition, automation and Gemini integration. |
-| 📊 **Machine Learning Projects** | End-to-end ML pipelines with preprocessing, feature engineering and model building. |
-| 🎬 **Movie Recommendation System** | Content-based recommender built using Scikit-Learn and NLP. |
-| 📈 **Data Analytics Projects** | EDA, Visualization and Predictive Analytics using Python. |
-
 ---
 
 # 📚 Currently Learning
@@ -156,9 +149,7 @@ Data Science Student • Machine Learning Enthusiast • AI Developer • Python
 
 # 💬 Favorite Quote
 
-> **"The best way to predict the future is to create it."**
->
-> **— Alan Kay**
+
 
 ---
 
