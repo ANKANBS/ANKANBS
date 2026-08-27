@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/ANKANBS">ANKAN BISWAS</a></h1>
+<h1 align="center">Hi 👋, I'm ANKAN BISWAS </h1>
 
 <h3 align="center">
 Data Science Student • Machine Learning Enthusiast • AI Developer • Python Programmer
 </h3>
 
-<!-- <p align="center">
-<a href="https://github.com/ANKANBS">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Science+%7C+Machine+Learning+%7C+AI;Python+Developer;Always+Learning+Something+New+🚀" />
-</a>
-</p> -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ANKANBS&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
