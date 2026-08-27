@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ANKANBS">ANKAN BISWAS</a></h1>
 
 <h3 align="center">
@@ -173,4 +172,3 @@ Data Science Student • Machine Learning Enthusiast • AI Developer • Python
 ### ⭐ If you like my work, consider starring my repositories!
 
 </p>
-```
