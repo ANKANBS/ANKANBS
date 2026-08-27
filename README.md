@@ -1,4 +1,4 @@
-# Hi 👋, I'm **BISWAS ANKAN**
+# Hi 👋, I'm **ANKAN BISWAS**
 
 <h3 align="center">🚀 Data Science Enthusiast | Machine Learning Explorer | Python Developer | AI Builder</h3>
 
@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ANKANBS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKANBS&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ANKANBS&show_icons=true&theme=radical" />
 
 --- 
 
